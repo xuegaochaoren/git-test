@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello! git6 push");
         System.out.println("hello! git6 push2");
         System.out.println("hello! git7 pull");
+        System.out.println("hello! git6 push3");
     }
 }
